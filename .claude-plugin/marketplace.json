@@ -1,0 +1,16 @@
+{
+  "name": "trevorschoeny-claude-plugins",
+  "owner": {
+    "name": "Trevor Schoeny"
+  },
+  "plugins": [
+    {
+      "name": "cairn",
+      "source": {
+        "source": "github",
+        "repo": "trevorschoeny/cairn"
+      },
+      "description": "Architectural Knowledge Management — records the WHY behind your code so agents don't 'improve' away deliberate decisions."
+    }
+  ]
+}

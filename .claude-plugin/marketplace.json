@@ -11,6 +11,14 @@
         "url": "https://github.com/trevorschoeny/cairn.git"
       },
       "description": "Architectural Knowledge Management — records the WHY behind your code so agents don't 'improve' away deliberate decisions."
+    },
+    {
+      "name": "agent-org-scaffold",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/trevorschoeny/agent-org-scaffold.git"
+      },
+      "description": "One-shot scaffold for hierarchical multi-agent projects: ADR decision tracking, actor-model message passing, registrar-enforced record integrity. Ships with a founding record of nine seeded ADRs."
     }
   ]
 }

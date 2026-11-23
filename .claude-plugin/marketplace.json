@@ -11,6 +11,14 @@
         "url": "https://github.com/trevorschoeny/silcrow-agency-helper.git"
       },
       "description": "Silcrow — Agency Helper. Scaffold a hierarchical agency: a disciplined multi-agent organization with ADR decision tracking, async-auditor registrar, canonical/operational artifact discipline, and multi-unit support. Three skills: silcrow-init, silcrow-add-unit, silcrow-update."
+    },
+    {
+      "name": "operbe",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/trevorschoeny/operbe.git"
+      },
+      "description": "operbe, the operations and behaviors method. For projects with a server and front ends: one list of operations every front end uses, and one list of behaviors every UI is built from and checked against."
     }
   ]
 }

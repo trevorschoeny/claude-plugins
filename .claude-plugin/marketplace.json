@@ -18,7 +18,7 @@
         "source": "url",
         "url": "https://github.com/trevorschoeny/operbe.git"
       },
-      "description": "operbe, the operations and behaviors method. For projects with a server and front ends: one list of operations every front end uses, and one list of behaviors every UI is built from and checked against."
+      "description": "operbe, the operations and behaviors method. For projects with a server and front ends: one list of operations every front end uses, one list of behaviors every UI is built from and checked against, and optionally a list of client actions that a command palette, shortcuts and an assistant use to work a UI."
     },
     {
       "name": "stop-safe",
